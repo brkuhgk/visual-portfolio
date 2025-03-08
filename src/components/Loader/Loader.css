@@ -1,0 +1,45 @@
+.loader-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--primary);
+    z-index: 1000;
+  }
+  
+  .egg-loader {
+    position: relative;
+    width: 150px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .egg-yolk {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #ffd54f, #ffb300);
+    box-shadow: 0 0 20px rgba(255, 179, 0, 0.3);
+  }
+  
+  .loading-text {
+    margin-top: 30px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: var(--text-secondary);
+  }
+  
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }

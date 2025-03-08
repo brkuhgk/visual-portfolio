@@ -1,0 +1,62 @@
+.cursor {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.1);
+    pointer-events: none;
+    z-index: 9999;
+    mix-blend-mode: difference;
+    transform: translate(-50%, -50%);
+  }
+  
+  .cursor-inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 0.1s ease-out;
+  }
+  
+  .cursor.clicked {
+    background-color: rgba(255, 107, 107, 0.3);
+  }
+  
+  .cursor.hovered {
+    background-color: rgba(255, 107, 107, 0.15);
+    mix-blend-mode: normal;
+  }
+  
+  .cursor.hidden {
+    opacity: 0;
+  }
+  
+  /* Hide the default cursor when custom cursor is active */
+  body {
+    cursor: none;
+  }
+  
+  /* But keep it on input elements and selects for usability */
+  input, 
+  textarea, 
+  select, 
+  option {
+    cursor: auto;
+  }
+  
+  /* Show default cursor on mobile */
+  @media (max-width: 768px) {
+    .cursor {
+      display: none;
+    }
+    
+    body {
+      cursor: auto;
+    }
+  }

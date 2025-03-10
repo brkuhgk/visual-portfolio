@@ -201,7 +201,7 @@ const Hero = ({ setActiveSection }) => {
           animate="visible"
         >
           <motion.h1 variants={nameVariants}>
-            <span className="highlight">Hello, I'm</span> Boddu Karthik
+            <span className="highlight">Hello, I'm</span>  Karthik
           </motion.h1>
           
           <div className="title-container">

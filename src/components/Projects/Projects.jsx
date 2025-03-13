@@ -12,6 +12,7 @@ import journal2 from '../../images/journal2.png';
 import resume_tailor from '../../images/ai-resume-tailor.gif';
 import under_maintainance from '../../images/under_maintanence.png';
 import subway_simulator from '../../images/ny-nj-path.gif';
+import tenX from '../../images/10xtool.gif';
 const Projects = () => {
   const [activeProject, setActiveProject] = useState(null);
   
@@ -123,8 +124,8 @@ const Projects = () => {
       description: 'Developed a productivity tool that uses the All types of techniques in one dashboard to increase productivity by 10x.',
       technologies: ['ReactJs', 'NodeJs', 'MongoDB', "AWS"],
       color: '#9B59B6',
-      image: '',
-      link: ''
+      image: tenX,
+      link: 'https://github.com/brkuhgk/10xtool'
     }
   ];
   

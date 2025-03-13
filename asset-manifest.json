@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/visual-portfolio/static/css/main.cf55c523.css",
-    "main.js": "/visual-portfolio/static/js/main.9241c886.js",
-    "static/js/453.b1d84b9d.chunk.js": "/visual-portfolio/static/js/453.b1d84b9d.chunk.js",
-    "static/media/avgif.gif": "/visual-portfolio/static/media/avgif.af0c5f51fece7252f489.gif",
-    "static/media/10xtool.gif": "/visual-portfolio/static/media/10xtool.da8afe288d8210498166.gif",
-    "static/media/3sTest.gif": "/visual-portfolio/static/media/3sTest.0ddfa66321521a87a937.gif",
-    "static/media/ai-resume-tailor.gif": "/visual-portfolio/static/media/ai-resume-tailor.bc762df437cb57a0f50b.gif",
-    "static/media/group_notes.gif": "/visual-portfolio/static/media/group_notes.bac958768eb87277f91b.gif",
-    "static/media/ny-nj-path.gif": "/visual-portfolio/static/media/ny-nj-path.6b9bebb7fc0086699619.gif",
-    "static/media/low_resolution_project.gif": "/visual-portfolio/static/media/low_resolution_project.0e17384a33642fbb092c.gif",
-    "static/media/journal_header.webp": "/visual-portfolio/static/media/journal_header.9adf6462afc4c88eb3c0.webp",
-    "static/media/journal2.png": "/visual-portfolio/static/media/journal2.3d164d4299e52ecb17c3.png",
-    "static/media/taco-cloud-ms.svg": "/visual-portfolio/static/media/taco-cloud-ms.37c99c75352dc4cd89c0b425f57c2a60.svg",
-    "static/media/under_maintanence.png": "/visual-portfolio/static/media/under_maintanence.fe7ed4a6fba461cbbc6c.png",
-    "index.html": "/visual-portfolio/index.html",
-    "main.cf55c523.css.map": "/visual-portfolio/static/css/main.cf55c523.css.map",
-    "main.9241c886.js.map": "/visual-portfolio/static/js/main.9241c886.js.map",
-    "453.b1d84b9d.chunk.js.map": "/visual-portfolio/static/js/453.b1d84b9d.chunk.js.map"
+    "main.css": "/static/css/main.cf55c523.css",
+    "main.js": "/static/js/main.090485b0.js",
+    "static/js/453.b1d84b9d.chunk.js": "/static/js/453.b1d84b9d.chunk.js",
+    "static/media/avgif.gif": "/static/media/avgif.af0c5f51fece7252f489.gif",
+    "static/media/10xtool.gif": "/static/media/10xtool.da8afe288d8210498166.gif",
+    "static/media/3sTest.gif": "/static/media/3sTest.0ddfa66321521a87a937.gif",
+    "static/media/ai-resume-tailor.gif": "/static/media/ai-resume-tailor.bc762df437cb57a0f50b.gif",
+    "static/media/group_notes.gif": "/static/media/group_notes.bac958768eb87277f91b.gif",
+    "static/media/ny-nj-path.gif": "/static/media/ny-nj-path.6b9bebb7fc0086699619.gif",
+    "static/media/low_resolution_project.gif": "/static/media/low_resolution_project.0e17384a33642fbb092c.gif",
+    "static/media/journal_header.webp": "/static/media/journal_header.9adf6462afc4c88eb3c0.webp",
+    "static/media/journal2.png": "/static/media/journal2.3d164d4299e52ecb17c3.png",
+    "static/media/taco-cloud-ms.svg": "/static/media/taco-cloud-ms.37c99c75352dc4cd89c0b425f57c2a60.svg",
+    "static/media/under_maintanence.png": "/static/media/under_maintanence.fe7ed4a6fba461cbbc6c.png",
+    "index.html": "/index.html",
+    "main.cf55c523.css.map": "/static/css/main.cf55c523.css.map",
+    "main.090485b0.js.map": "/static/js/main.090485b0.js.map",
+    "453.b1d84b9d.chunk.js.map": "/static/js/453.b1d84b9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf55c523.css",
-    "static/js/main.9241c886.js"
+    "static/js/main.090485b0.js"
   ]
 }

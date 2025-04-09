@@ -18,7 +18,7 @@ const About = () => {
   const tabs = [
     { id: 'story', label: 'About Me' },
     { id: 'education', label: 'Education' },
-    { id: 'experience', label: 'Experience' }
+    // { id: 'experience', label: 'Experience' }
   ];
 
   const tabContents = {
